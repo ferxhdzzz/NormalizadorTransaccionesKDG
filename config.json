@@ -1,0 +1,20 @@
+{
+  "supported_currencies": ["USD", "EUR", "GBP"],
+  "status_mapping": {
+    "completed": "SUCCESS",
+    "ok": "SUCCESS",
+    "success": "SUCCESS",
+    "approved": "SUCCESS",
+    "failed": "FAILED",
+    "error": "FAILED",
+    "rejected": "FAILED",
+    "pending": "PENDING",
+    "processing": "PENDING"
+  },
+  "date_formats": [
+    "%Y-%m-%d %H:%M:%S",
+    "%d/%m/%Y %H:%M",
+    "%Y-%m-%dT%H:%M:%SZ",
+    "%Y-%m-%d"
+  ]
+}

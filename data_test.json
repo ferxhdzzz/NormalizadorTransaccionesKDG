@@ -1,0 +1,43 @@
+[
+  {
+    "id": "tx_001",
+    "amount": "100.50",
+    "currency": "USD",
+    "timestamp": "2025-03-10 14:22:00",
+    "status": "completed"
+  },
+  {
+    "transaction_id": 204,
+    "total": 10050,
+    "currency_code": "usd",
+    "created_at": "10/03/2025 14:22",
+    "state": "OK"
+  },
+  {
+    "ref": "A-77",
+    "amount": "€99,99",
+    "date": "2025-03-10T14:22:00Z",
+    "result": "success"
+  },
+  {
+    "id": "tx_004",
+    "amount": "45.00",
+    "currency": "USD",
+    "timestamp": "2025-03-10 15:30:00",
+    "status": "failed"
+  },
+  {
+    "id": "tx_005",
+    "amount": "120.00",
+    "currency": "EUR",
+    "timestamp": "2025-03-10 16:00:00",
+    "status": "pending"
+  },
+  {
+    "id": "tx_006_invalid",
+    "amount": "-50.00",
+    "currency": "USD",
+    "timestamp": "2025-03-10 15:00:00",
+    "status": "completed"
+  }
+]
